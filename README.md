@@ -1,2 +1,2 @@
-# hi-nest
-nest api project
+# hi-next
+next project
